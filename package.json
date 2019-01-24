@@ -18,6 +18,6 @@
     ],
     "repo": "official",
     "title": "NXP MPL3115A2 Pressure Sensor",
-    "version": "r2.1.2",
+    "version": "r2.2.0",
     "whatsnew": "First Release"
 }
